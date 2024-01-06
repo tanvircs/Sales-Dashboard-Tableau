@@ -1,25 +1,26 @@
 # Tableau Sales Dashboard Project
 
-## Overview
-This project involves creating a dynamic and interactive sales dashboard using Tableau. It's designed to provide insightful analysis of sales data through various visualizations.
+## Project Objective
+The objective of this Tableau report is to analyze and present comprehensive insights into sales, profit, orders, profit margin, and various comparisons to provide a clear understanding of key performance indicators and trends.
 
-## Installation and Setup
-1. **Install Tableau**: Download and install Tableau from the [Tableau website](https://www.tableau.com).
-2. **Launch Tableau**: Open Tableau and prepare to connect to your data source.
+### Report Objectives
+- **Calculate Total Sales**: Display the total sales value for the selected period.
+- **Calculate Profit**: Visualize the total profit achieved.
+- **Analyze Orders**: Examine the number of orders placed.
+- **Calculate Profit Margin**: Visualize the profit margin percentage.
+- **Compare Sales by Product**: With Previous Year.
+- **Compare Sales by Months**: With Previous Year.
+- **Display Top 5 Cities**: Based on sales.
+- **Compare Profit by Channel**: With Previous Year.
+- **Analyze Sales by Customer**: And compare with the previous year.
+- **Create Slicers**: For Date, City, Product, and Channel.
 
-## Connecting to Data
-- Start Tableau and connect to your data source. This could be a database, spreadsheet, or other formats supported by Tableau.
-
-## Creating Visualizations
-1. **Create a New Worksheet**: Navigate to the worksheet area to start creating visualizations.
-2. **Drag and Drop Fields**: Use sales, dates, categories, etc., to create charts and graphs.
-
-## Building the Dashboard
-1. **Time-Series Graphs**: Visualize sales over time.
-2. **Bar Charts**: Show sales by product category or region.
-3. **Pie Charts**: Display market share.
-
-## Advanced Features
-- **Create Calculated Fields**: Utilize Tableau's formula feature for complex data analysis.
-- **Customize Dashboard**: Arrange visualizations and add filters for interactive analysis.
-- **Add Interactive Elements**: Implement filters, actions, and tooltips.
+## Steps for Power BI Project
+1. **Gather Data**: Collect necessary data from various sources.
+2. **Power Query – Data ETL**: Clean and transform the data using Power Query Editor.
+3. **Create Data Model**: In Power BI Desktop, representing relationships between tables.
+4. **Develop Reports**: Use Power BI Desktop to create reports with visualizations.
+    - Create report background in PowerPoint.
+    - Implement slicers for Date, City, Product, and Channel.
+    - Develop DAX measures.
+    - Create visuals for sales, profit, and more.
