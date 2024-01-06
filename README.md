@@ -15,9 +15,9 @@ The objective of this Tableau report is to analyze and present comprehensive ins
 - **Analyze Sales by Customer**: And compare with the previous year.
 - **Create Slicers**: For Date, City, Product, and Channel.
 
-## Steps for Power BI Project
+## Steps for Tableau Project
 1. **Gather Data**: Collect necessary data from various sources.
-2. **Power Query – Data ETL**: Clean and transform the data using Power Query Editor.
+2. **Query – Data ETL**: Clean and transform the data using Power Query Editor.
 3. **Create Data Model**: In Power BI Desktop, representing relationships between tables.
 4. **Develop Reports**: Use Power BI Desktop to create reports with visualizations.
     - Create report background in PowerPoint.
